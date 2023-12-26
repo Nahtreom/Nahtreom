@@ -7,15 +7,15 @@
 #### The struction of this page will record the growth of me,which also encourages me to be more patient and focus👀
 #### My motto:Pain is inevitable.Suffering is optional🙌
 
-#### The lessons I am and will learn :
+#### The lessons I am learning and will learn :
 
-#### 1.2022 Summer - Havard - CS50P
+#### 1.2022 Summer - Harvard - CS50P
 
 Start: 2023.11 - Total: 11 Lectures - Now: OOP
 
 ![](https://progress-bar.dev/82/)
 
-#### 2.2023 Summer - Havard - CS50X
+#### 2.2023 Summer - Harvard - CS50X
 
 Start: 2023.12 - Total: 7 Lectures - Now: Search
 
