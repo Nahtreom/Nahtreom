@@ -2,6 +2,7 @@
 ### I am now majored in Cyber Security Engineering 🌱
 ### I am interested in AI Security 🤖
 
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahtreom)
 <!---
 
 **Nahtreom/Nahtreom** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
