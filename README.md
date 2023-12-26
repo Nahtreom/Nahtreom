@@ -2,9 +2,10 @@
 #### I am now majored in Cyber Security Engineering 🌱
 #### I am interested in AI Security 🤖
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahtreom)
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Nahtreom&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-##### The struction of this page will record the growth of me,which also encourages me to be more patient and focus👀
+#### The struction of this page will record the growth of me,which also encourages me to be more patient and focus👀
+#### My motto:Pain is inevitable.Suffering is optional🙌
 
 #### The lessons I am and will learn :
 
@@ -38,3 +39,5 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 
 --->
+
+
