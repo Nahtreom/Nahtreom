@@ -2,7 +2,6 @@
 #### I am now majored in Cyber Security Engineering 🌱
 #### I am interested in AI Security 🤖
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Nahtreom&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 #### The struction of this page will record the growth of me,which also encourages me to be more patient and focus👀
 #### My motto:Pain is inevitable.Suffering is optional🙌
