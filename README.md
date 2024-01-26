@@ -15,17 +15,17 @@ Start: 2023.11 - Total: 11 Lectures - Now: OOP
 
 ![](https://progress-bar.dev/82/)
 
-#### 2.2023 Summer - Harvard - CS50X
+#### 2.2023 Winter - MIT - Missing-Semester
 
-Start: 2023.12 - Total: 7 Lectures - Now: Search
+Start: 2024.2 - Total: 11 Lectures - Now:
 
-![](https://progress-bar.dev/12/)
+![](https://progress-bar.dev/0/)
 
-#### 3.2022 Fall - Coursera - Andrew Ng - DeepLearning
+#### 3.2023 Winter - Cousera - Machine Learning
 
-Start: 2023.12 - Total: 151 Lessons - Now: Unsupervises Learning
+Start: 2024.2 - Total: 144 Parts - Now:
 
-![](https://progress-bar.dev/4/)
+![](https://progress-bar.dev/0/)
 
 <!---
 
