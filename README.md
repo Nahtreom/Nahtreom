@@ -28,6 +28,10 @@ Start: 2024.2 - Total: 144 Parts - Now:
 
 ![](https://progress-bar.dev/0/)
 
+#### 4.2023 Winter - NTU - Machine Learning
+Start: 2024.2 - Total: 15 Lectures - Now:
+![](https://progress-bar.dev/0/)
+
 <!---
 
 **Nahtreom/Nahtreom** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
