@@ -1,4 +1,4 @@
-### Hi there 👋,I am Nahtreom from Wuhan University
+### Hi there 👋,I am Hendrick Wang from Wuhan University.
 
 
 
